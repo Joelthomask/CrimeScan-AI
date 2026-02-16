@@ -1,6 +1,6 @@
 # CrimeScan AI
 <p align="center">
-  <img src="Assets\Logo.png" alt="logo" width="220"/>
+  <img src="Assets\logo.png" alt="logo" width="220"/>
 </p>
 <h3 align="center">AI‑Powered Criminal Face Detection & Recognition System</h3>
 
