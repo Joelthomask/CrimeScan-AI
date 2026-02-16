@@ -1,0 +1,59 @@
+#################################################
+# CrimeScan AI - Git Ignore Configuration
+# Only ignoring folders specified by project
+#################################################
+
+###############
+# Python cache
+###############
+__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+###############
+# Virtual env
+###############
+venv/
+**/venv/
+
+###############
+# Large model / experiment folders (Drive storage)
+###############
+
+# Deblurring experiments
+auto_enhancer/enhancement/deblurring/HI_Diff/experiments/
+
+# GFPGAN weights
+auto_enhancer/enhancement/resolution/GFPGAN/gfpgan/weights/
+
+# RetinaFace weights
+face_recognition/detection/retinaface/weights/
+
+# InsightFace buffalo_l models
+face_recognition/embedding/InsightFace/models/buffalo_l/
+
+###############
+# Local sessions & temp data
+###############
+learner_cases/
+parser_test_session/
+parser_tests/
+templog/
+
+###############
+# OS junk
+###############
+Thumbs.db
+.DS_Store
+
+###############
+# IDE folders (optional but safe)
+###############
+.vscode/
+.idea/
+
+#################################################
+# Everything else WILL be uploaded
+#################################################

@@ -1,0 +1,30 @@
+Retinaface_masked_training/
+└── retinaface/
+    ├── data/
+    │   ├── config.py
+    │   ├── data_augment.py
+    │   └── wider_face.py
+    │
+    ├── layers/
+    │   ├── functions/
+    │   │   └── prior_box.py
+    │   └── modules/
+    │       └── multibox_loss.py
+    │
+    ├── models/
+    │   ├── net.py
+    │   └── retinaface.py
+    │
+    ├── utils/
+    │   ├── box_utils.py
+    │   ├── timer.py
+    │   └── nms/
+    │       └── py_cpu_nms.py
+    │
+    ├── weights/
+    │   ├── mobilenet_mask.pth.tar         ← trained MobileNet with mask dataset
+    │   ├── mobilenet0.25_Final.pth
+    │   ├── mobilenetV1X0.25_pretrain.tar
+    │   └── Resnet50_Final.pth
+    │
+    └── detect.py
