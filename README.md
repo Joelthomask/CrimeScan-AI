@@ -236,7 +236,7 @@ Place inside:
 
     auto_enhancer/enhancement/deblurring/HI_Diff/experiments/
 
-[![Download from GDrive](https://img.shields.io/badge/Download-GDrive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/open?id=1lG4UsQmKRDBKjorQ6mgffS2Wi8SSec8J&usp=drive_fs)
+[![Download from GDrive](https://img.shields.io/badge/Download-GDrive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/open?id=1X37Y_sezJg6kt4HI7ooky0UV_PFG_TU1&usp=drive_fs).
 
 
 ------------------------------------------------------------------------
@@ -247,7 +247,7 @@ Place inside:
 
     auto_enhancer/enhancement/resolution/GFPGAN/gfpgan/weights/
 
-[![Download from GDrive](https://img.shields.io/badge/Download-GDrive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/open?id=1FTZjwODN0uWuxoTCZ_uaT3SEFM8pd25N&usp=drive_fs)
+[![Download from GDrive](https://img.shields.io/badge/Download-GDrive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/open?id=1_RndC2riDiaBrNa-bpuCn5tNpb1fGEQq&usp=drive_fs).
 
 
 ------------------------------------------------------------------------
@@ -258,8 +258,7 @@ Place inside:
 
     face_recognition/detection/retinaface/weights/
 
-[![Download from GDrive](https://img.shields.io/badge/Download-GDrive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/open?id=1T-XSP1638go15tNjLwqVvV7jeer_2wrJ&usp=drive_fs)
-
+[![Download from GDrive](https://img.shields.io/badge/Download-GDrive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/open?id=10I-otE3xiwCIymLjnr7ZGFjuetMIThIL&usp=drive_fs).
 
 ------------------------------------------------------------------------
 
@@ -270,8 +269,7 @@ Place inside:
     face_recognition/embedding/InsightFace/models/buffalo_l/
 
 
-[![Download from GDrive](https://img.shields.io/badge/Download-GDrive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/open?id=188oKV4aXZSzyzarQn9zHbjDISDYrOx_u&usp=drive_fs)
-
+[![Download from GDrive](https://img.shields.io/badge/Download-GDrive-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/open?id=1YPnslEEUlcCm-Q6dfvsa31cTzl687IWK&usp=drive_fs).
 
 ------------------------------------------------------------------------
 ---
@@ -288,11 +286,11 @@ A ready-to-use installer is available for quick setup.
 
 The installer automatically installs the CrimeScan desktop application with all required runtime components.
 
-[![Download Installer](https://img.shields.io/badge/Download-Desktop%20Installer-blue?style=for-the-badge&logo=windows)](https://drive.google.com/open?id=1wYVAlRqFKhPZ7ewDb9_kJlOHPiwnOxC_&usp=drive_fs)
+[![Download Installer](https://img.shields.io/badge/Download-Desktop%20Installer-blue?style=for-the-badge&logo=windows)](https://drive.google.com/open?id=12w1wrwlESu__3DWlMX75Gbmn_0xjzU1l&usp=drive_fs).
 
 After installation:
 - Launch CrimeScan from the desktop or start menu.
-- Models should still be placed in required folders as described above.
+- The dependencies and libraries  should be Installed while running the setup.
 
 ---
 
